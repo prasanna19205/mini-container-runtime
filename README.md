@@ -22,3 +22,8 @@ The system is divided into:
 - Kernel-level memory monitoring
 - Soft and hard memory limit enforcement
 - Automatic process termination (SIGKILL)
+
+- output screenshots
+- <img width="737" height="562" alt="123564" src="https://github.com/user-attachments/assets/24ca5da3-0a9a-46e6-8d19-1ee07a181a03" />
+
+
